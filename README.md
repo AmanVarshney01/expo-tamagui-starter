@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) template created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) and [Tamagui](https://tamagui.dev/).
 
+<img src="https://github.com/user-attachments/assets/2be7da02-48bb-47ff-8bcb-a23afbf17ff6" width="400" />
+
 ## Get started
 
 1. Install dependencies
